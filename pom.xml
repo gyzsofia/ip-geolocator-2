@@ -200,7 +200,7 @@
 	<distributionManagement>
 		<site>
 			<id>shrek</id>
-			<url>scp://gyorkezsofia24@shrek.unideb.hu:2222/home/gyzsofia/public_html/${project.artifactId}</url>
+			<url>scp://gyorkezsofia24@shrek.unideb.hu:2222/home/gyorkezsofia24/public_html/${project.artifactId}</url>
 		</site>
 	</distributionManagement>
 </project>
